@@ -1,5 +1,5 @@
 {
-  "name": "serverless-iam-roles-per-function",
+  "name": "@serverlessops/serverless-iam-roles-per-function",
   "private": false,
   "version": "1.0.2",
   "engines": {
